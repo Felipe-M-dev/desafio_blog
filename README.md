@@ -27,3 +27,9 @@ Ej: content: "hay un spoiler increíble" => "hay unincreíble".
 - Se deben respetar las URLs especificadas para lograrla evaluación.
 - Para realizar la evaluación se ingresaran 3 posts con contenido de prueba y se revisará la existencia de estos y el orden mostradoen la página principal.
 - Solo debe ser subido el link al sitio en producción para la evaluación.
+
+>> Solución:
+
+**URL:** https://fmartinez-blog.herokuapp.com/
+**user:** sixto
+**Password:** sixto1234
