@@ -22,7 +22,7 @@ Ej: content: "hay un spoiler increíble" => "hay unincreíble".
 - El formulario debe `tenerid="create_posts"`.
 - Puedes usar HTML para validar la presencia de atributos.
 - Aún no vemos cómo subir contenido, así que la imagen de los posts serán referenciadas por una url.
-- El modelo debe llamarsepost y la tabla de la basede datosposts.
+- El modelo debe llamarse post y la tabla de la base de datosposts.
   - El título debe llamarse *title*, el contenido *content*, la imagen *image_url*, en la fecha se utilizará *created_at* (este último se crea por defecto al momento de crear el modelo).
 - Se deben respetar las URLs especificadas para lograrla evaluación.
 - Para realizar la evaluación se ingresaran 3 posts con contenido de prueba y se revisará la existencia de estos y el orden mostradoen la página principal.
